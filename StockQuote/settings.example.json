@@ -1,0 +1,11 @@
+{
+  "EmailHost": "",
+  "EmailPort": 25,
+  "EmailUserName": "",
+  "EmailPassword": "",
+  "EmailSender": "",
+  "EmailRecipients": [
+    ""
+  ],
+  "StockServiceApiKey": ""
+}
